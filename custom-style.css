@@ -1,0 +1,16 @@
+.info-background{
+    background-color: #fceae8;
+    margin-top: 100px;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.btn-buynow{
+    color: white;
+    border-radius: 8px;
+    padding: 9pc 25x;
+    border: none;
+    background-color: rgb(165, 47, 116);
+}
